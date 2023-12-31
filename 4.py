@@ -16,7 +16,7 @@ secret_text = cv2.subtract (full_text , code_breaker)
 
 for row in range (secret_text.shape[1]) :
     for col in range (secret_text.shape[0]) :
-        secret_text[row][col] = secret_text[row][col] + 256
+        secret_text[row][col] = 255 - secret_text[row][col] 
 
 cv2.imshow ("Secret Text" , secret_text)
 cv2.waitKey ()
