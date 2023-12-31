@@ -15,6 +15,4 @@ masked_room = room * reversed_mask
 
 decorated_room = masked_floor + masked_room
 
-# cv2.imshow ("" , mask)
-# cv2.waitKey()
 cv2.imwrite ("outputs\output_6_virtual_decorator.jpg" , decorated_room)

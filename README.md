@@ -34,4 +34,17 @@ The secret massage will be :
 
 ## Fifth part : ...
 
-## Sixth part : ...
+## Sixth part : Virtual Decorator
+By using the following mask :
+
+![Alt text](inputs/input_6_mask.jpg)
+
+This code decorate the floor of the following room by the following floor pictur :
+
+![Alt text](inputs/input_6_room.jpg)
+
+![Alt text](inputs/input_6_floor.jpg)
+
+The Decorated room is :
+
+![Alt text](outputs/output_6_virtual_decorator.jpg)
