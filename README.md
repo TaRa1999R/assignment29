@@ -10,7 +10,14 @@ pip install -r requirment.txt
 
 ## Second part : ...
 
-## Third part : ...
+## Third part : Photo to Sketch
+the input photo is :
+
+![Alt text](inputs/input_face.jpg)
+
+the sketch is :
+
+![Alt text](outputs/output_3_photo_to_sketch.jpg)
 
 ## Fourth part : Find the Secret Text
 The main text is :
