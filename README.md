@@ -1,1 +1,19 @@
-# assignment29
+# assignment29 : Basic Math Operations
+
+## How to Install
+Run the following command :
+```
+pip install -r requirment.txt
+```
+
+## First part : ...
+
+## Second part : ...
+
+## Third part : ...
+
+## Fourth part : ...
+
+## Fifth part : ...
+
+## Sixth part : ...
