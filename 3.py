@@ -10,6 +10,4 @@ inverted_blurred = 255 - blurred
 sketch = img / inverted_blurred
 sketch = sketch * 255
 
-cv2.imshow ("Sketch picture" , sketch)
-cv2.waitKey ()
 cv2.imwrite ("outputs\output_3_photo_to_sketch.jpg" , sketch)

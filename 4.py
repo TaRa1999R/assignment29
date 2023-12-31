@@ -18,6 +18,4 @@ for row in range (secret_text.shape[1]) :
     for col in range (secret_text.shape[0]) :
         secret_text[row][col] = 255 - secret_text[row][col] 
 
-cv2.imshow ("Secret Text" , secret_text)
-cv2.waitKey ()
 cv2.imwrite ("outputs\output_4_secret_text.png" , secret_text)
