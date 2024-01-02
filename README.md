@@ -8,7 +8,10 @@ pip install -r requirment.txt
 
 ## First part : ...
 
-## Second part : ...
+## Second part : Black Hole
+By reducing the noise in different parts of this photo and stick them together the following picture appear:
+
+![Alt text](outputs/output_2_black_hole.jpg)
 
 ## Third part : Photo to Sketch
 the input photo is :
