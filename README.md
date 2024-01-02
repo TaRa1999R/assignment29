@@ -38,7 +38,10 @@ The secret massage will be :
 
 ![Alt text](outputs/output_4_secret_text.png)
 
-## Fifth part : ...
+## Fifth part : Background Estimation
+In this part we used a video as an input and reach a photo from its background as an output :
+
+![Alt text](outputs/output_5_background_estimation.jpg)
 
 ## Sixth part : Virtual Decorator
 By using the following mask :
