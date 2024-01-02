@@ -1,7 +1,7 @@
 
 import cv2
 
-img = cv2.imread ("inputs\input_face.jpg" , 0)
+img = cv2.imread ("inputs\input_3_myphoto.jpg" , 0)
 
 inverted = 255 - img
 blurred = cv2.GaussianBlur (inverted , (21,21) , 0)
