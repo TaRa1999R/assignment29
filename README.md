@@ -6,7 +6,10 @@ Run the following command :
 pip install -r requirment.txt
 ```
 
-## First part : ...
+## First part : Face Morphing
+In this part we can see changes when it is turning the Hat-Maker to Jack Sparrow :
+
+![Alt text](outputs/output_1_face_morphing.jpg)
 
 ## Second part : Black Hole
 By reducing the noise in different parts of this photo and stick them together the following picture appear:
