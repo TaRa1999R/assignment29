@@ -19,7 +19,7 @@ By reducing the noise in different parts of this photo and stick them together t
 ## Third part : Photo to Sketch
 the input photo is :
 
-![Alt text](inputs/input_face.jpg)
+![Alt text](inputs/input_3_myphoto.jpg)
 
 the sketch is :
 
